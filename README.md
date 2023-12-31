@@ -21,7 +21,7 @@ I learned to fetch the API data using async method and error handling method in 
 
 ## Website
 
-[Emoji-Hub]()
+[Emoji-Hub](https://emoji-hub-mu.vercel.app/)
 
 
 ## Screenshots
