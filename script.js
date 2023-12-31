@@ -32,8 +32,9 @@ async function fetchData() {
         let col = document.createElement("div");
         col.setAttribute(
           "class",
-          "col-sm-6 col-md-5 col-lg-4 col-xl-4 col-div"
+          "col-12 col-sm-12 col-md-5 col-lg-4 col-xl-4 col-div"
         );
+          //col-sm-6 col-md-5 col-lg-4 col-xl-4
   
         let card = document.createElement("div");
         card.setAttribute(
