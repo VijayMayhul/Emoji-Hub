@@ -39,7 +39,7 @@ body {
 .card-title{
     border-radius: 4px 4px 0px 0px;
     font-size: 18px !important;
-    text-wrap: balance;
+    /* text-wrap: balance; */
     word-wrap: break-word;
 }
 .card-text, .btn{
