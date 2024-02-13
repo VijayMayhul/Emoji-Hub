@@ -108,7 +108,7 @@ async function fetchData() {
       button.setAttribute("class", "btn btn-success disabled");
       setTimeout(() => {
         button.innerText = `Copy Html Code`;
-        button.setAttribute("class", "btn btn-secondary");
+        button.setAttribute("class", "btn btn-primary");
       }, 5000);
     } catch (err) {
       alert('Unable to copy: ', err);
